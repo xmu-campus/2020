@@ -23,9 +23,10 @@ Hi~ 蚂蚁金服消费信贷2021校招开始啦（如有雷同，都是友军）
 
 ## 阿里巴巴-淘系技术部
 
-* 联系人：@侯超群（初类）淘系技术部-商业机器智能部
-【联系方式】微信号：15359601555，公司邮箱 hcq.hcq@alibaba-inc.com 
-【详细内容详见推文】https://mp.weixin.qq.com/s/wwJasHmcqxptvgJ0csnm4g
+* 联系人：@侯超群（初类）淘系技术部-商业机器智能部  
+
+【联系方式】微信号：15359601555，公司邮箱 hcq.hcq@alibaba-inc.com  
+【详细内容详见推文】https://mp.weixin.qq.com/s/wwJasHmcqxptvgJ0csnm4g  
 
 
 ## [商汤科技](sensetime.md)
